@@ -1,4 +1,3 @@
-// components/Quality.tsx
 export default function Quality() {
     return (
         <section className="bg-white text-black py-12 px-6 md:px-12">

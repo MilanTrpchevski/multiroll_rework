@@ -9,7 +9,7 @@ const Navbar = () => {
 
                 {/* Links */}
                 <ul className="hidden md:flex space-x-6">
-                    <li><Link href="/home-improvement">Home Improvement</Link></li>
+                    <li><Link href="/">Home Improvement</Link></li>
                     <li><Link href="/products">Our Products</Link></li>
                     <li><Link href="/about">About Us</Link></li>
                     <li><Link href="/reviews">Customer Reviews</Link></li>
